@@ -42,9 +42,6 @@ Here are some ideas to get you started:
   <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
 
-  <!-- Matplotlib (Simple Icons) -->
-  <img src="https://cdn.simpleicons.org/matplotlib/11557c" width="40" height="40"/>
-
   <!-- Scikit-learn -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
 
