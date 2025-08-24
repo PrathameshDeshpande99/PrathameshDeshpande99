@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 
   <!-- Ollama (badge style, since no icon available) -->
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" height="40"/>
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
 ## 📊 GitHub Stats
