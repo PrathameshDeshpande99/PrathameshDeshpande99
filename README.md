@@ -56,4 +56,10 @@ About Me :)
 </p>
 
 ## 📊 GitHub Stats
-![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshDeshpande99&show_icons=true&theme=radical)
+
+![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrathameshDeshpande99&show_icons=true&theme=radical)
+
+## 📝 Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshDeshpande99&layout=compact&theme=radical)
+
