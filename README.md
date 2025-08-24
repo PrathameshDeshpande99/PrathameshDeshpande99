@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-##About Me :)
+About Me :)
 - 🔭 I’m currently working on Object Detection (Computer Vision), LLMs, DSA, CP and AI & Machine Learning in general
 - 🌱 I’m currently learning DSA and Compter Vision
 - 👯 I’m looking to collaborate on meaningful and useful AI & ML topics
